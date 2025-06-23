@@ -1,4 +1,4 @@
-package Assignments;
+package assignments;
 
 import java.time.Duration;
 import org.openqa.selenium.By;

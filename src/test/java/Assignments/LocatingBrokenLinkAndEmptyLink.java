@@ -1,4 +1,4 @@
-package Assignments;
+package assignments;
 
 import java.net.HttpURLConnection;
 import java.net.URL;
